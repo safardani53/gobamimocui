@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://gobamimocui.pages.dev/sitemap.xml
